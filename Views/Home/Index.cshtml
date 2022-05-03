@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Azure Container Apps</h1>
+    <p>This is version 3.0 of the application.</p>
+    @if(!string.IsNullOrEmpty(ViewBag.ConnectionString))
+    {
+        <p>Connectionstring : @ViewBag.ConnectionString </p>
+    }
+</div>

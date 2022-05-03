@@ -1,0 +1,7 @@
+C:\Users\sonus\Desktop\SampleMVCWeb\SampleMVCWeb\obj\Docker\publish\SampleMVCWeb.exe
+C:\Users\sonus\Desktop\SampleMVCWeb\SampleMVCWeb\obj\Docker\publish\appsettings.Development.json
+C:\Users\sonus\Desktop\SampleMVCWeb\SampleMVCWeb\obj\Docker\publish\appsettings.json
+C:\Users\sonus\Desktop\SampleMVCWeb\SampleMVCWeb\obj\Docker\publish\SampleMVCWeb.dll
+C:\Users\sonus\Desktop\SampleMVCWeb\SampleMVCWeb\obj\Docker\publish\SampleMVCWeb.deps.json
+C:\Users\sonus\Desktop\SampleMVCWeb\SampleMVCWeb\obj\Docker\publish\SampleMVCWeb.runtimeconfig.json
+C:\Users\sonus\Desktop\SampleMVCWeb\SampleMVCWeb\obj\Docker\publish\SampleMVCWeb.pdb
